@@ -42,7 +42,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import isLowercase from 'https://cdn.jsdelivr.net/gh/stdlib-js/assert-is-lowercase@esm/index.mjs';
+import isLowercase from 'https://cdn.jsdelivr.net/gh/stdlib-js/assert-is-lowercase@v0.2.1-esm/index.mjs';
 ```
 
 #### isLowercase( value )
@@ -86,7 +86,7 @@ bool = isLowercase( 'World' );
 <body>
 <script type="module">
 
-import isLowercase from 'https://cdn.jsdelivr.net/gh/stdlib-js/assert-is-lowercase@esm/index.mjs';
+import isLowercase from 'https://cdn.jsdelivr.net/gh/stdlib-js/assert-is-lowercase@v0.2.1-esm/index.mjs';
 
 var bool = isLowercase( 'hello' );
 // returns true
